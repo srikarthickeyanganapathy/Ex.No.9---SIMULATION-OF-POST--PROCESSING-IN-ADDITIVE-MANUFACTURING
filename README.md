@@ -58,7 +58,7 @@ Choose a container that is large enough to accommodate the 3D printed object and
 After the supports have dissolved, remove the object from the chemical solution and thoroughly rinse it with clean water. This step helps to remove any remaining traces of the solvent or dissolved support material. It is important to ensure the object is completely dry before proceeding with further post-processing or use.
 
 ### UV Curing of 3D printed part :
-Part before UV Curing :
+#### Part before UV Curing :
 ![243097064-e2e95972-df34-46b6-84fa-d263ae5e6056](https://github.com/srikarthickeyanganapathy/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393842/c2678ad4-5c2d-4758-8768-27f575839aff)
 
 ##### Explanation :
@@ -83,7 +83,7 @@ Place the printed object in the UV curing apparatus, ensuring it is properly pos
 After the UV curing process is complete, some resins may require a post-curing rinse in a solvent such as isopropyl alcohol (IPA). This rinse helps to remove any uncured resin residue on the object's surface, enhancing its final appearance and reducing stickiness. After UV curing and any required rinsing, allow the printed object to air dry completely. The object is now considered cured and ready for further post-processing or use. It is advisable to store the cured object in a clean and dry environment to prevent any degradation over time.
 
 ### Heat Treatment of 3D printed part :
-Part before Heat Treatment :
+#### Part before Heat Treatment :
 ![243097221-8f5bab52-f063-4eee-9f14-627d1e21f654](https://github.com/srikarthickeyanganapathy/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393842/c986ec8e-528f-402d-bb63-48a6c3f508ca)
 
 ##### Explanation :
